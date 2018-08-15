@@ -5,7 +5,7 @@
  * @author (your name)
  * @version (a version number or a date)
  */
-public class NueralNetTester
+public class Linetester
 {
     public static void main(String[] args){
         //determines if a point is above the line x=y
